@@ -1,7 +1,6 @@
 <?php 
 {
 	 $dbhost = 'us-cdbr-iron-east-05.cleardb.net';
-	 $dbname = 'heroku_e617f166184319e';
 	 $dbuser = 'b69ddd0d0e71c2';
 	 $dbpassword = '9ed2b538';
      $dbport='3306'
